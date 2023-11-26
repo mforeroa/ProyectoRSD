@@ -2,12 +2,12 @@
 
 % Datos globales
 nref  = 1;          % nodo de referencia
-vref  = 1.0;        % tensión en la subestación (pu)
-vbase = 12.66;      % Tensión base (kV)
-sbase = 1000;       % Potencia base (kVA)
+vref  = 1.0;        % tensiï¿½n en la subestaciï¿½n (pu)
+vbase = 12.66;      % Tensiï¿½n base (kV)
+sbase = 10000;      % Potencia base (kVA)
 tol   = 10^-8;      % Tolerancia del error permitido
-vmin  = 0.93;       % Tensión mínima (pu)
-vmax  = 1.05;       % Tensión máxima (pu)
+vmin  = 0.93;       % Tensiï¿½n mï¿½nima (pu)
+vmax  = 1.05;       % Tensiï¿½n mï¿½xima (pu)
 
 % Base de impedancia
 zbase = 1000*((vbase^2)/sbase);
