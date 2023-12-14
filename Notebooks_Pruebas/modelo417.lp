@@ -7853,422 +7853,421 @@ Subject To
    + y + y + y + y + y + y + y + y + y + y + y + y + y + y + y + y + y + y
    + y + y + y + y + y + y + y + y + y + y + y + y + y + y + y + y + y + y
    + y + y + y + y + y + y + y + y + y + y + y + y = 414
- conexo_1: y + y + y + y + y + y + y + y + y + y + y + y + y + y + y + y
-   + y + y + y + y + y + y + y + y + y + y + y + y >= 1
- conexo_2: y + y + y + y + y + y + y + y >= 1
- conexo_3: y + y + y + y + y + y + y + y >= 1
- conexo_4: y + y + y + y >= 1
- conexo_5: y + y + y + y >= 1
- conexo_6: y + y + y + y >= 1
- conexo_7: y + y + y + y >= 1
- conexo_8: y + y + y + y >= 1
- conexo_9: y + y + y + y >= 1
- conexo_10: y + y + y + y + y + y >= 1
- conexo_11: y + y + y + y + y + y >= 1
- conexo_12: y + y + y + y >= 1
- conexo_13: y + y + y + y >= 1
- conexo_14: y + y + y + y >= 1
- conexo_15: y + y + y + y >= 1
- conexo_16: y + y + y + y >= 1
- conexo_17: y + y + y + y >= 1
- conexo_18: y + y + y + y >= 1
- conexo_19: y + y + y + y >= 1
- conexo_20: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_21: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_22: y + y + y + y >= 1
- conexo_23: y + y + y + y >= 1
- conexo_24: y + y + y + y >= 1
- conexo_25: y + y + y + y >= 1
- conexo_26: y + y + y + y >= 1
- conexo_27: y + y + y + y >= 1
- conexo_28: y + y + y + y >= 1
- conexo_29: y + y + y + y >= 1
- conexo_30: y + y + y + y >= 1
- conexo_31: y + y + y + y >= 1
- conexo_32: y + y + y + y >= 1
- conexo_33: y + y + y + y + y + y + y + y >= 1
- conexo_34: y + y + y + y >= 1
- conexo_35: y + y + y + y >= 1
- conexo_36: y + y + y + y >= 1
- conexo_37: y + y + y + y >= 1
- conexo_38: y + y + y + y >= 1
- conexo_39: y + y + y + y >= 1
- conexo_40: y + y + y + y >= 1
- conexo_41: y + y + y + y >= 1
- conexo_42: y + y + y + y >= 1
- conexo_43: y + y + y + y >= 1
- conexo_44: y + y + y + y + y + y >= 1
- conexo_45: y + y + y + y >= 1
- conexo_46: y + y + y + y >= 1
- conexo_47: y + y + y + y + y + y >= 1
- conexo_48: y + y + y + y >= 1
- conexo_49: y + y + y + y + y + y >= 1
- conexo_50: y + y + y + y + y + y >= 1
- conexo_51: y + y + y + y + y + y >= 1
- conexo_52: y + y + y + y >= 1
- conexo_53: y + y + y + y >= 1
- conexo_54: y + y + y + y >= 1
- conexo_55: y + y + y + y >= 1
- conexo_56: y + y + y + y >= 1
- conexo_57: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_58: y + y + y + y + y + y >= 1
- conexo_59: y + y + y + y + y + y >= 1
- conexo_60: y + y + y + y >= 1
- conexo_61: y + y + y + y >= 1
- conexo_62: y + y + y + y >= 1
- conexo_63: y + y + y + y >= 1
- conexo_64: y + y + y + y >= 1
- conexo_65: y + y + y + y >= 1
- conexo_66: y + y + y + y + y + y >= 1
- conexo_67: y + y + y + y + y + y >= 1
- conexo_68: y + y + y + y + y + y + y + y >= 1
- conexo_69: y + y + y + y >= 1
- conexo_70: y + y + y + y >= 1
- conexo_71: y + y + y + y >= 1
- conexo_72: y + y + y + y + y + y + y + y >= 1
- conexo_73: y + y + y + y + y + y >= 1
- conexo_74: y + y + y + y >= 1
- conexo_75: y + y + y + y >= 1
- conexo_76: y + y + y + y >= 1
- conexo_77: y + y + y + y + y + y >= 1
- conexo_78: y + y + y + y >= 1
- conexo_79: y + y + y + y >= 1
- conexo_80: y + y + y + y >= 1
- conexo_81: y + y + y + y >= 1
- conexo_82: y + y >= 1
- conexo_83: y + y + y + y >= 1
- conexo_84: y + y + y + y + y + y + y + y + y + y + y + y + y + y >= 1
- conexo_85: y + y + y + y >= 1
- conexo_86: y + y + y + y >= 1
- conexo_87: y + y >= 1
- conexo_88: y + y + y + y >= 1
- conexo_89: y + y + y + y >= 1
- conexo_90: y + y + y + y >= 1
- conexo_91: y + y >= 1
- conexo_92: y + y + y + y + y + y >= 1
- conexo_93: y + y >= 1
- conexo_94: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_95: y + y + y + y >= 1
- conexo_96: y + y + y + y >= 1
- conexo_97: y + y + y + y >= 1
- conexo_98: y + y + y + y >= 1
- conexo_99: y + y + y + y >= 1
- conexo_100: y + y + y + y >= 1
- conexo_101: y + y + y + y >= 1
- conexo_102: y + y + y + y >= 1
- conexo_103: y + y + y + y >= 1
- conexo_104: y + y + y + y >= 1
- conexo_105: y + y + y + y >= 1
- conexo_106: y + y + y + y >= 1
- conexo_107: y + y + y + y >= 1
- conexo_108: y + y + y + y >= 1
- conexo_109: y + y + y + y >= 1
- conexo_110: y + y + y + y >= 1
- conexo_111: y + y + y + y >= 1
- conexo_112: y + y + y + y >= 1
- conexo_113: y + y + y + y >= 1
- conexo_114: y + y + y + y >= 1
- conexo_115: y + y + y + y >= 1
- conexo_116: y + y + y + y >= 1
- conexo_117: y + y + y + y >= 1
- conexo_118: y + y + y + y >= 1
- conexo_119: y + y + y + y + y + y + y + y >= 1
- conexo_120: y + y + y + y >= 1
- conexo_121: y + y >= 1
- conexo_122: y + y + y + y >= 1
- conexo_123: y + y + y + y >= 1
- conexo_124: y + y + y + y + y + y >= 1
- conexo_125: y + y + y + y >= 1
- conexo_126: y + y >= 1
- conexo_127: y + y + y + y >= 1
- conexo_128: y + y + y + y >= 1
- conexo_129: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_130: y + y + y + y >= 1
- conexo_131: y + y + y + y >= 1
- conexo_132: y + y + y + y >= 1
- conexo_133: y + y + y + y >= 1
- conexo_134: y + y + y + y >= 1
- conexo_135: y + y + y + y + y + y >= 1
- conexo_136: y + y + y + y >= 1
- conexo_137: y + y + y + y >= 1
- conexo_138: y + y + y + y + y + y >= 1
- conexo_139: y + y + y + y >= 1
- conexo_140: y + y + y + y >= 1
- conexo_141: y + y + y + y + y + y >= 1
- conexo_142: y + y + y + y >= 1
- conexo_143: y + y + y + y >= 1
- conexo_144: y + y + y + y >= 1
- conexo_145: y + y + y + y >= 1
- conexo_146: y + y + y + y >= 1
- conexo_147: y + y + y + y + y + y >= 1
- conexo_148: y + y + y + y + y + y >= 1
- conexo_149: y + y + y + y + y + y >= 1
- conexo_150: y + y + y + y >= 1
- conexo_151: y + y + y + y + y + y >= 1
- conexo_152: y + y + y + y >= 1
- conexo_153: y + y + y + y >= 1
- conexo_154: y + y + y + y + y + y >= 1
- conexo_155: y + y + y + y >= 1
- conexo_156: y + y + y + y >= 1
- conexo_157: y + y + y + y >= 1
- conexo_158: y + y + y + y >= 1
- conexo_159: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_160: y + y + y + y + y + y + y + y >= 1
- conexo_161: y + y + y + y + y + y >= 1
- conexo_162: y + y + y + y >= 1
- conexo_163: y + y + y + y >= 1
- conexo_164: y + y + y + y >= 1
- conexo_165: y + y + y + y >= 1
- conexo_166: y + y + y + y >= 1
- conexo_167: y + y + y + y >= 1
- conexo_168: y + y + y + y >= 1
- conexo_169: y + y >= 1
- conexo_170: y + y + y + y >= 1
- conexo_171: y + y >= 1
- conexo_172: y + y + y + y >= 1
- conexo_173: y + y + y + y >= 1
- conexo_174: y + y + y + y >= 1
- conexo_175: y + y + y + y >= 1
- conexo_176: y + y + y + y >= 1
- conexo_177: y + y >= 1
- conexo_178: y + y >= 1
- conexo_179: y + y + y + y + y + y >= 1
- conexo_180: y + y + y + y + y + y >= 1
- conexo_181: y + y + y + y + y + y >= 1
- conexo_182: y + y + y + y + y + y >= 1
- conexo_183: y + y + y + y >= 1
- conexo_184: y + y + y + y + y + y >= 1
- conexo_185: y + y + y + y >= 1
- conexo_186: y + y + y + y >= 1
- conexo_187: y + y + y + y >= 1
- conexo_188: y + y + y + y >= 1
- conexo_189: y + y + y + y + y + y >= 1
- conexo_190: y + y + y + y + y + y >= 1
- conexo_191: y + y >= 1
- conexo_192: y + y >= 1
- conexo_193: y + y >= 1
- conexo_194: y + y >= 1
- conexo_195: y + y >= 1
- conexo_196: y + y >= 1
- conexo_197: y + y + y + y >= 1
- conexo_198: y + y + y + y >= 1
- conexo_199: y + y + y + y + y + y >= 1
- conexo_200: y + y + y + y + y + y >= 1
- conexo_201: y + y >= 1
- conexo_202: y + y + y + y >= 1
- conexo_203: y + y + y + y + y + y >= 1
- conexo_204: y + y + y + y >= 1
- conexo_205: y + y >= 1
- conexo_206: y + y + y + y >= 1
- conexo_207: y + y + y + y >= 1
- conexo_208: y + y + y + y + y + y >= 1
- conexo_209: y + y + y + y + y + y + y + y >= 1
- conexo_210: y + y >= 1
- conexo_211: y + y + y + y >= 1
- conexo_212: y + y >= 1
- conexo_213: y + y >= 1
- conexo_214: y + y >= 1
- conexo_215: y + y + y + y >= 1
- conexo_216: y + y + y + y + y + y >= 1
- conexo_217: y + y >= 1
- conexo_218: y + y + y + y >= 1
- conexo_219: y + y + y + y >= 1
- conexo_220: y + y + y + y + y + y >= 1
- conexo_221: y + y + y + y + y + y >= 1
- conexo_222: y + y + y + y >= 1
- conexo_223: y + y + y + y >= 1
- conexo_224: y + y + y + y >= 1
- conexo_225: y + y + y + y >= 1
- conexo_226: y + y + y + y >= 1
- conexo_227: y + y >= 1
- conexo_228: y + y + y + y + y + y >= 1
- conexo_229: y + y + y + y >= 1
- conexo_230: y + y + y + y + y + y >= 1
- conexo_231: y + y + y + y >= 1
- conexo_232: y + y + y + y + y + y >= 1
- conexo_233: y + y + y + y >= 1
- conexo_234: y + y + y + y + y + y >= 1
- conexo_235: y + y + y + y + y + y >= 1
- conexo_236: y + y + y + y + y + y >= 1
- conexo_237: y + y + y + y + y + y >= 1
- conexo_238: y + y >= 1
- conexo_239: y + y + y + y + y + y >= 1
- conexo_240: y + y >= 1
- conexo_241: y + y >= 1
- conexo_242: y + y >= 1
- conexo_243: y + y + y + y + y + y + y + y + y + y + y + y >= 1
- conexo_244: y + y + y + y >= 1
- conexo_245: y + y >= 1
- conexo_246: y + y + y + y >= 1
- conexo_247: y + y + y + y >= 1
- conexo_248: y + y >= 1
- conexo_249: y + y + y + y >= 1
- conexo_250: y + y >= 1
- conexo_251: y + y + y + y + y + y + y + y >= 1
- conexo_252: y + y + y + y >= 1
- conexo_253: y + y + y + y >= 1
- conexo_254: y + y + y + y + y + y + y + y >= 1
- conexo_255: y + y >= 1
- conexo_256: y + y >= 1
- conexo_257: y + y + y + y + y + y + y + y >= 1
- conexo_258: y + y >= 1
- conexo_259: y + y + y + y >= 1
- conexo_260: y + y + y + y + y + y >= 1
- conexo_261: y + y + y + y >= 1
- conexo_262: y + y + y + y >= 1
- conexo_263: y + y + y + y >= 1
- conexo_264: y + y + y + y + y + y >= 1
- conexo_265: y + y + y + y + y + y + y + y >= 1
- conexo_266: y + y + y + y + y + y >= 1
- conexo_267: y + y + y + y >= 1
- conexo_268: y + y + y + y + y + y + y + y + y + y + y + y >= 1
- conexo_269: y + y + y + y >= 1
- conexo_270: y + y >= 1
- conexo_271: y + y >= 1
- conexo_272: y + y >= 1
- conexo_273: y + y >= 1
- conexo_274: y + y + y + y >= 1
- conexo_275: y + y + y + y + y + y >= 1
- conexo_276: y + y + y + y >= 1
- conexo_277: y + y + y + y + y + y >= 1
- conexo_278: y + y >= 1
- conexo_279: y + y + y + y >= 1
- conexo_280: y + y + y + y >= 1
- conexo_281: y + y + y + y + y + y >= 1
- conexo_282: y + y + y + y + y + y >= 1
- conexo_283: y + y + y + y >= 1
- conexo_284: y + y >= 1
- conexo_285: y + y + y + y >= 1
- conexo_286: y + y >= 1
- conexo_287: y + y >= 1
- conexo_288: y + y + y + y >= 1
- conexo_289: y + y + y + y >= 1
- conexo_290: y + y + y + y + y + y >= 1
- conexo_291: y + y >= 1
- conexo_292: y + y + y + y + y + y >= 1
- conexo_293: y + y + y + y >= 1
- conexo_294: y + y + y + y >= 1
- conexo_295: y + y + y + y >= 1
- conexo_296: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_297: y + y + y + y >= 1
- conexo_298: y + y >= 1
- conexo_299: y + y + y + y >= 1
- conexo_300: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_301: y + y + y + y + y + y >= 1
- conexo_302: y + y + y + y >= 1
- conexo_303: y + y + y + y >= 1
- conexo_304: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_305: y + y + y + y + y + y + y + y >= 1
- conexo_306: y + y + y + y >= 1
- conexo_307: y + y + y + y + y + y >= 1
- conexo_308: y + y + y + y >= 1
- conexo_309: y + y + y + y + y + y >= 1
- conexo_310: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_311: y + y + y + y >= 1
- conexo_312: y + y + y + y >= 1
- conexo_313: y + y + y + y >= 1
- conexo_314: y + y + y + y + y + y + y + y >= 1
- conexo_315: y + y + y + y + y + y >= 1
- conexo_316: y + y + y + y >= 1
- conexo_317: y + y + y + y + y + y >= 1
- conexo_318: y + y + y + y + y + y >= 1
- conexo_319: y + y + y + y >= 1
- conexo_320: y + y >= 1
- conexo_321: y + y + y + y >= 1
- conexo_322: y + y + y + y + y + y >= 1
- conexo_323: y + y + y + y + y + y >= 1
- conexo_324: y + y + y + y + y + y + y + y + y + y >= 1
- conexo_325: y + y >= 1
- conexo_326: y + y >= 1
- conexo_327: y + y + y + y >= 1
- conexo_328: y + y >= 1
- conexo_329: y + y + y + y + y + y >= 1
- conexo_330: y + y + y + y >= 1
- conexo_331: y + y + y + y >= 1
- conexo_332: y + y >= 1
- conexo_333: y + y + y + y >= 1
- conexo_334: y + y + y + y + y + y >= 1
- conexo_335: y + y >= 1
- conexo_336: y + y + y + y + y + y >= 1
- conexo_337: y + y + y + y >= 1
- conexo_338: y + y + y + y >= 1
- conexo_339: y + y + y + y >= 1
- conexo_340: y + y + y + y >= 1
- conexo_341: y + y + y + y + y + y >= 1
- conexo_342: y + y >= 1
- conexo_343: y + y >= 1
- conexo_344: y + y >= 1
- conexo_345: y + y + y + y + y + y >= 1
- conexo_346: y + y + y + y >= 1
- conexo_347: y + y >= 1
- conexo_348: y + y >= 1
- conexo_349: y + y + y + y >= 1
- conexo_350: y + y + y + y >= 1
- conexo_351: y + y + y + y >= 1
- conexo_352: y + y + y + y + y + y + y + y >= 1
- conexo_353: y + y + y + y + y + y >= 1
- conexo_354: y + y + y + y + y + y >= 1
- conexo_355: y + y + y + y >= 1
- conexo_356: y + y + y + y >= 1
- conexo_357: y + y + y + y + y + y >= 1
- conexo_358: y + y + y + y >= 1
- conexo_359: y + y + y + y + y + y >= 1
- conexo_360: y + y + y + y >= 1
- conexo_361: y + y + y + y >= 1
- conexo_362: y + y + y + y + y + y >= 1
- conexo_363: y + y + y + y + y + y >= 1
- conexo_364: y + y + y + y + y + y >= 1
- conexo_365: y + y + y + y + y + y >= 1
- conexo_366: y + y + y + y + y + y >= 1
- conexo_367: y + y + y + y >= 1
- conexo_368: y + y + y + y + y + y >= 1
- conexo_369: y + y + y + y + y + y >= 1
- conexo_370: y + y + y + y + y + y + y + y >= 1
- conexo_371: y + y + y + y >= 1
- conexo_372: y + y + y + y >= 1
- conexo_373: y + y + y + y >= 1
- conexo_374: y + y + y + y + y + y >= 1
- conexo_375: y + y + y + y >= 1
- conexo_376: y + y + y + y >= 1
- conexo_377: y + y >= 1
- conexo_378: y + y + y + y >= 1
- conexo_379: y + y + y + y >= 1
- conexo_380: y + y + y + y >= 1
- conexo_381: y + y + y + y >= 1
- conexo_382: y + y + y + y + y + y >= 1
- conexo_383: y + y + y + y + y + y >= 1
- conexo_384: y + y + y + y + y + y >= 1
- conexo_385: y + y >= 1
- conexo_386: y + y >= 1
- conexo_387: y + y >= 1
- conexo_388: y + y >= 1
- conexo_389: y + y >= 1
- conexo_390: y + y >= 1
- conexo_391: y + y >= 1
- conexo_392: y + y >= 1
- conexo_393: y + y >= 1
- conexo_394: y + y >= 1
- conexo_395: y + y >= 1
- conexo_396: y + y >= 1
- conexo_397: y + y >= 1
- conexo_398: y + y >= 1
- conexo_399: y + y >= 1
- conexo_400: y + y >= 1
- conexo_401: y + y + y + y + y + y >= 1
- conexo_402: y + y + y + y + y + y >= 1
- conexo_403: y + y + y + y + y + y >= 1
- conexo_404: y + y + y + y + y + y + y + y >= 1
- conexo_405: y + y + y + y + y + y >= 1
- conexo_406: y + y + y + y + y + y >= 1
- conexo_407: y + y + y + y + y + y >= 1
- conexo_408: y + y + y + y + y + y >= 1
- conexo_409: y + y + y + y + y + y >= 1
- conexo_410: y + y + y + y + y + y >= 1
- conexo_411: y + y + y + y + y + y >= 1
- conexo_412: y + y + y + y + y + y + y + y >= 1
- conexo_413: y + y + y + y + y + y >= 1
- conexo_414: y + y + y + y + y + y >= 1
- conexo_415: y + y >= 1
+ conexion1: y + y + y + y + y + y + y + y + y + y + y + y + y + y >= 1
+ conexion2: y + y + y + y >= 1
+ conexion3: y + y + y + y >= 1
+ conexion4: y + y >= 1
+ conexion5: y + y >= 1
+ conexion6: y + y >= 1
+ conexion7: y + y >= 1
+ conexion8: y + y >= 1
+ conexion9: y + y >= 1
+ conexion10: y + y + y >= 1
+ conexion11: y + y + y >= 1
+ conexion12: y + y >= 1
+ conexion13: y + y >= 1
+ conexion14: y + y >= 1
+ conexion15: y + y >= 1
+ conexion16: y + y >= 1
+ conexion17: y + y >= 1
+ conexion18: y + y >= 1
+ conexion19: y + y >= 1
+ conexion20: y + y + y + y + y >= 1
+ conexion21: y + y + y + y + y >= 1
+ conexion22: y + y >= 1
+ conexion23: y + y >= 1
+ conexion24: y + y >= 1
+ conexion25: y + y >= 1
+ conexion26: y + y >= 1
+ conexion27: y + y >= 1
+ conexion28: y + y >= 1
+ conexion29: y + y >= 1
+ conexion30: y + y >= 1
+ conexion31: y + y >= 1
+ conexion32: y + y >= 1
+ conexion33: y + y + y + y >= 1
+ conexion34: y + y >= 1
+ conexion35: y + y >= 1
+ conexion36: y + y >= 1
+ conexion37: y + y >= 1
+ conexion38: y + y >= 1
+ conexion39: y + y >= 1
+ conexion40: y + y >= 1
+ conexion41: y + y >= 1
+ conexion42: y + y >= 1
+ conexion43: y + y >= 1
+ conexion44: y + y + y >= 1
+ conexion45: y + y >= 1
+ conexion46: y + y >= 1
+ conexion47: y + y + y >= 1
+ conexion48: y + y >= 1
+ conexion49: y + y + y >= 1
+ conexion50: y + y + y >= 1
+ conexion51: y + y + y >= 1
+ conexion52: y + y >= 1
+ conexion53: y + y >= 1
+ conexion54: y + y >= 1
+ conexion55: y + y >= 1
+ conexion56: y + y >= 1
+ conexion57: y + y + y + y + y >= 1
+ conexion58: y + y + y >= 1
+ conexion59: y + y + y >= 1
+ conexion60: y + y >= 1
+ conexion61: y + y >= 1
+ conexion62: y + y >= 1
+ conexion63: y + y >= 1
+ conexion64: y + y >= 1
+ conexion65: y + y >= 1
+ conexion66: y + y + y >= 1
+ conexion67: y + y + y >= 1
+ conexion68: y + y + y + y >= 1
+ conexion69: y + y >= 1
+ conexion70: y + y >= 1
+ conexion71: y + y >= 1
+ conexion72: y + y + y + y >= 1
+ conexion73: y + y + y >= 1
+ conexion74: y + y >= 1
+ conexion75: y + y >= 1
+ conexion76: y + y >= 1
+ conexion77: y + y + y >= 1
+ conexion78: y + y >= 1
+ conexion79: y + y >= 1
+ conexion80: y + y >= 1
+ conexion81: y + y >= 1
+ conexion82: y >= 1
+ conexion83: y + y >= 1
+ conexion84: y + y + y + y + y + y + y >= 1
+ conexion85: y + y >= 1
+ conexion86: y + y >= 1
+ conexion87: y >= 1
+ conexion88: y + y >= 1
+ conexion89: y + y >= 1
+ conexion90: y + y >= 1
+ conexion91: y >= 1
+ conexion92: y + y + y >= 1
+ conexion93: y >= 1
+ conexion94: y + y + y + y + y >= 1
+ conexion95: y + y >= 1
+ conexion96: y + y >= 1
+ conexion97: y + y >= 1
+ conexion98: y + y >= 1
+ conexion99: y + y >= 1
+ conexion100: y + y >= 1
+ conexion101: y + y >= 1
+ conexion102: y + y >= 1
+ conexion103: y + y >= 1
+ conexion104: y + y >= 1
+ conexion105: y + y >= 1
+ conexion106: y + y >= 1
+ conexion107: y + y >= 1
+ conexion108: y + y >= 1
+ conexion109: y + y >= 1
+ conexion110: y + y >= 1
+ conexion111: y + y >= 1
+ conexion112: y + y >= 1
+ conexion113: y + y >= 1
+ conexion114: y + y >= 1
+ conexion115: y + y >= 1
+ conexion116: y + y >= 1
+ conexion117: y + y >= 1
+ conexion118: y + y >= 1
+ conexion119: y + y + y + y >= 1
+ conexion120: y + y >= 1
+ conexion121: y >= 1
+ conexion122: y + y >= 1
+ conexion123: y + y >= 1
+ conexion124: y + y + y >= 1
+ conexion125: y + y >= 1
+ conexion126: y >= 1
+ conexion127: y + y >= 1
+ conexion128: y + y >= 1
+ conexion129: y + y + y + y + y >= 1
+ conexion130: y + y >= 1
+ conexion131: y + y >= 1
+ conexion132: y + y >= 1
+ conexion133: y + y >= 1
+ conexion134: y + y >= 1
+ conexion135: y + y + y >= 1
+ conexion136: y + y >= 1
+ conexion137: y + y >= 1
+ conexion138: y + y + y >= 1
+ conexion139: y + y >= 1
+ conexion140: y + y >= 1
+ conexion141: y + y + y >= 1
+ conexion142: y + y >= 1
+ conexion143: y + y >= 1
+ conexion144: y + y >= 1
+ conexion145: y + y >= 1
+ conexion146: y + y >= 1
+ conexion147: y + y + y >= 1
+ conexion148: y + y + y >= 1
+ conexion149: y + y + y >= 1
+ conexion150: y + y >= 1
+ conexion151: y + y + y >= 1
+ conexion152: y + y >= 1
+ conexion153: y + y >= 1
+ conexion154: y + y + y >= 1
+ conexion155: y + y >= 1
+ conexion156: y + y >= 1
+ conexion157: y + y >= 1
+ conexion158: y + y >= 1
+ conexion159: y + y + y + y + y >= 1
+ conexion160: y + y + y + y >= 1
+ conexion161: y + y + y >= 1
+ conexion162: y + y >= 1
+ conexion163: y + y >= 1
+ conexion164: y + y >= 1
+ conexion165: y + y >= 1
+ conexion166: y + y >= 1
+ conexion167: y + y >= 1
+ conexion168: y + y >= 1
+ conexion169: y >= 1
+ conexion170: y + y >= 1
+ conexion171: y >= 1
+ conexion172: y + y >= 1
+ conexion173: y + y >= 1
+ conexion174: y + y >= 1
+ conexion175: y + y >= 1
+ conexion176: y + y >= 1
+ conexion177: y >= 1
+ conexion178: y >= 1
+ conexion179: y + y + y >= 1
+ conexion180: y + y + y >= 1
+ conexion181: y + y + y >= 1
+ conexion182: y + y + y >= 1
+ conexion183: y + y >= 1
+ conexion184: y + y + y >= 1
+ conexion185: y + y >= 1
+ conexion186: y + y >= 1
+ conexion187: y + y >= 1
+ conexion188: y + y >= 1
+ conexion189: y + y + y >= 1
+ conexion190: y + y + y >= 1
+ conexion191: y >= 1
+ conexion192: y >= 1
+ conexion193: y >= 1
+ conexion194: y >= 1
+ conexion195: y >= 1
+ conexion196: y >= 1
+ conexion197: y + y >= 1
+ conexion198: y + y >= 1
+ conexion199: y + y + y >= 1
+ conexion200: y + y + y >= 1
+ conexion201: y >= 1
+ conexion202: y + y >= 1
+ conexion203: y + y + y >= 1
+ conexion204: y + y >= 1
+ conexion205: y >= 1
+ conexion206: y + y >= 1
+ conexion207: y + y >= 1
+ conexion208: y + y + y >= 1
+ conexion209: y + y + y + y >= 1
+ conexion210: y >= 1
+ conexion211: y + y >= 1
+ conexion212: y >= 1
+ conexion213: y >= 1
+ conexion214: y >= 1
+ conexion215: y + y >= 1
+ conexion216: y + y + y >= 1
+ conexion217: y >= 1
+ conexion218: y + y >= 1
+ conexion219: y + y >= 1
+ conexion220: y + y + y >= 1
+ conexion221: y + y + y >= 1
+ conexion222: y + y >= 1
+ conexion223: y + y >= 1
+ conexion224: y + y >= 1
+ conexion225: y + y >= 1
+ conexion226: y + y >= 1
+ conexion227: y >= 1
+ conexion228: y + y + y >= 1
+ conexion229: y + y >= 1
+ conexion230: y + y + y >= 1
+ conexion231: y + y >= 1
+ conexion232: y + y + y >= 1
+ conexion233: y + y >= 1
+ conexion234: y + y + y >= 1
+ conexion235: y + y + y >= 1
+ conexion236: y + y + y >= 1
+ conexion237: y + y + y >= 1
+ conexion238: y >= 1
+ conexion239: y + y + y >= 1
+ conexion240: y >= 1
+ conexion241: y >= 1
+ conexion242: y >= 1
+ conexion243: y + y + y + y + y + y >= 1
+ conexion244: y + y >= 1
+ conexion245: y >= 1
+ conexion246: y + y >= 1
+ conexion247: y + y >= 1
+ conexion248: y >= 1
+ conexion249: y + y >= 1
+ conexion250: y >= 1
+ conexion251: y + y + y + y >= 1
+ conexion252: y + y >= 1
+ conexion253: y + y >= 1
+ conexion254: y + y + y + y >= 1
+ conexion255: y >= 1
+ conexion256: y >= 1
+ conexion257: y + y + y + y >= 1
+ conexion258: y >= 1
+ conexion259: y + y >= 1
+ conexion260: y + y + y >= 1
+ conexion261: y + y >= 1
+ conexion262: y + y >= 1
+ conexion263: y + y >= 1
+ conexion264: y + y + y >= 1
+ conexion265: y + y + y + y >= 1
+ conexion266: y + y + y >= 1
+ conexion267: y + y >= 1
+ conexion268: y + y + y + y + y + y >= 1
+ conexion269: y + y >= 1
+ conexion270: y >= 1
+ conexion271: y >= 1
+ conexion272: y >= 1
+ conexion273: y >= 1
+ conexion274: y + y >= 1
+ conexion275: y + y + y >= 1
+ conexion276: y + y >= 1
+ conexion277: y + y + y >= 1
+ conexion278: y >= 1
+ conexion279: y + y >= 1
+ conexion280: y + y >= 1
+ conexion281: y + y + y >= 1
+ conexion282: y + y + y >= 1
+ conexion283: y + y >= 1
+ conexion284: y >= 1
+ conexion285: y + y >= 1
+ conexion286: y >= 1
+ conexion287: y >= 1
+ conexion288: y + y >= 1
+ conexion289: y + y >= 1
+ conexion290: y + y + y >= 1
+ conexion291: y >= 1
+ conexion292: y + y + y >= 1
+ conexion293: y + y >= 1
+ conexion294: y + y >= 1
+ conexion295: y + y >= 1
+ conexion296: y + y + y + y + y >= 1
+ conexion297: y + y >= 1
+ conexion298: y >= 1
+ conexion299: y + y >= 1
+ conexion300: y + y + y + y + y >= 1
+ conexion301: y + y + y >= 1
+ conexion302: y + y >= 1
+ conexion303: y + y >= 1
+ conexion304: y + y + y + y + y >= 1
+ conexion305: y + y + y + y >= 1
+ conexion306: y + y >= 1
+ conexion307: y + y + y >= 1
+ conexion308: y + y >= 1
+ conexion309: y + y + y >= 1
+ conexion310: y + y + y + y + y >= 1
+ conexion311: y + y >= 1
+ conexion312: y + y >= 1
+ conexion313: y + y >= 1
+ conexion314: y + y + y + y >= 1
+ conexion315: y + y + y >= 1
+ conexion316: y + y >= 1
+ conexion317: y + y + y >= 1
+ conexion318: y + y + y >= 1
+ conexion319: y + y >= 1
+ conexion320: y >= 1
+ conexion321: y + y >= 1
+ conexion322: y + y + y >= 1
+ conexion323: y + y + y >= 1
+ conexion324: y + y + y + y + y >= 1
+ conexion325: y >= 1
+ conexion326: y >= 1
+ conexion327: y + y >= 1
+ conexion328: y >= 1
+ conexion329: y + y + y >= 1
+ conexion330: y + y >= 1
+ conexion331: y + y >= 1
+ conexion332: y >= 1
+ conexion333: y + y >= 1
+ conexion334: y + y + y >= 1
+ conexion335: y >= 1
+ conexion336: y + y + y >= 1
+ conexion337: y + y >= 1
+ conexion338: y + y >= 1
+ conexion339: y + y >= 1
+ conexion340: y + y >= 1
+ conexion341: y + y + y >= 1
+ conexion342: y >= 1
+ conexion343: y >= 1
+ conexion344: y >= 1
+ conexion345: y + y + y >= 1
+ conexion346: y + y >= 1
+ conexion347: y >= 1
+ conexion348: y >= 1
+ conexion349: y + y >= 1
+ conexion350: y + y >= 1
+ conexion351: y + y >= 1
+ conexion352: y + y + y + y >= 1
+ conexion353: y + y + y >= 1
+ conexion354: y + y + y >= 1
+ conexion355: y + y >= 1
+ conexion356: y + y >= 1
+ conexion357: y + y + y >= 1
+ conexion358: y + y >= 1
+ conexion359: y + y + y >= 1
+ conexion360: y + y >= 1
+ conexion361: y + y >= 1
+ conexion362: y + y + y >= 1
+ conexion363: y + y + y >= 1
+ conexion364: y + y + y >= 1
+ conexion365: y + y + y >= 1
+ conexion366: y + y + y >= 1
+ conexion367: y + y >= 1
+ conexion368: y + y + y >= 1
+ conexion369: y + y + y >= 1
+ conexion370: y + y + y + y >= 1
+ conexion371: y + y >= 1
+ conexion372: y + y >= 1
+ conexion373: y + y >= 1
+ conexion374: y + y + y >= 1
+ conexion375: y + y >= 1
+ conexion376: y + y >= 1
+ conexion377: y >= 1
+ conexion378: y + y >= 1
+ conexion379: y + y >= 1
+ conexion380: y + y >= 1
+ conexion381: y + y >= 1
+ conexion382: y + y + y >= 1
+ conexion383: y + y + y >= 1
+ conexion384: y + y + y >= 1
+ conexion385: y >= 1
+ conexion386: y >= 1
+ conexion387: y >= 1
+ conexion388: y >= 1
+ conexion389: y >= 1
+ conexion390: y >= 1
+ conexion391: y >= 1
+ conexion392: y >= 1
+ conexion393: y >= 1
+ conexion394: y >= 1
+ conexion395: y >= 1
+ conexion396: y >= 1
+ conexion397: y >= 1
+ conexion398: y >= 1
+ conexion399: y >= 1
+ conexion400: y >= 1
+ conexion401: y + y + y >= 1
+ conexion402: y + y + y >= 1
+ conexion403: y + y + y >= 1
+ conexion404: y + y + y + y >= 1
+ conexion405: y + y + y >= 1
+ conexion406: y + y + y >= 1
+ conexion407: y + y + y >= 1
+ conexion408: y + y + y >= 1
+ conexion409: y + y + y >= 1
+ conexion410: y + y + y >= 1
+ conexion411: y + y + y >= 1
+ conexion412: y + y + y + y >= 1
+ conexion413: y + y + y >= 1
+ conexion414: y + y + y >= 1
+ conexion415: y >= 1
  qc0: [ I * v - p ^2 - q ^2 ] >= 0
  qc1: [ I * v - p ^2 - q ^2 ] >= 0
  qc2: [ I * v - p ^2 - q ^2 ] >= 0
@@ -9217,3789 +9216,951 @@ Subject To
  qc945: [ I * v - p ^2 - q ^2 ] >= 0
 Bounds
  -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
- -0.12 <= delta <= 0.12
- I <= 1
- p <= 1
- q <= 1
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
+ -0.12 <= delta <= 0.12
  0.8649 <= v <= 1.1025
  0.8649 <= v <= 1.1025
  0.8649 <= v <= 1.1025
