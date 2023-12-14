@@ -4,7 +4,7 @@
 nref  = 1;          % nodo de referencia
 vref  = 1.0;        % tensi�n en la subestaci�n (pu)
 vbase = 12.66;      % Tensi�n base (kV)
-sbase = 10000;      % Potencia base (kVA)
+sbase = 1000;      % Potencia base (kVA)
 tol   = 10^-8;      % Tolerancia del error permitido
 vmin  = 0.93;       % Tensi�n m�nima (pu)
 vmax  = 1.05;       % Tensi�n m�xima (pu)
