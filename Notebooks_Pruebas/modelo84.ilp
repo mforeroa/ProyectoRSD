@@ -1,9 +1,0 @@
-\ Model RDS_copy
-\ LP format - for model browsing. Use MPS format to capture full model detail.
-Minimize
- 
-Subject To
- potenciaA=_11: - 0.00604801477377655 I - p - 0.0262080640196984 I - p
-   - 0.0100800246229609 I - p = 9e-05
-Bounds
-End
